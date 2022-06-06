@@ -39,9 +39,15 @@ The social API mimicks a back-end of a typical social app by serving Users and u
 - In MongoDB Compass tool create a few users under the proper database
 - Open Insomnia or Postman and call an API, ex: `http://localhost:3001/api/users/`
 - Please see the video at the link below for a better understanding of the app: 
-https://drive.google.com/file/d/1jx9NxS2oJqQbqhRuk5tIJcp64eqh6qPp/view?usp=sharing
+https://drive.google.com/file/d/1jx9NxS2oJqQbqhRuk5tIJcp64eqh6qPp
 
-## Tools | <img src="https://img.icons8.com/ios-filled/30/undefined/job.png"/> 
+### Images | <img src="https://img.icons8.com/ios-filled/20/undefined/image-gallery.png"/>
+  
+![SocializeYo2](https://user-images.githubusercontent.com/94947579/172120995-77c28070-411d-49e2-879c-696fd4c3204a.PNG)
+![SocializeYo1](https://user-images.githubusercontent.com/94947579/172120944-21d7d2fa-e1d5-4050-ad90-09d2c518a18c.PNG)
+
+
+## Tools | <img src="https://img.icons8.com/ios-filled/20/undefined/job.png"/> 
 - Some crucial packages
   - [express](https://www.npmjs.com/package/express)
   - [mongoose](https://www.npmjs.com/package/mongoose)
